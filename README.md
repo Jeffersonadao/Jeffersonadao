@@ -27,13 +27,11 @@
 - [GospelFlix](https://github.com/Jeffersonadao/Gospelflix) - Projeto desenvolvido para ser similar à página do Netflix, apresentando vídeos de músicas gospel separados por categorias. Ainda em processo de desenvolvimento, pois não está finalizado. ![React Logo](https://img.shields.io/badge/React-16-blue?style=flat-square&logo=react&logoColor=white)
  
 
-  
-
 
 ## Áreas de Atuação
 - 💼 Atualmente buscando oportunidades para aplicar minhas habilidades como **Desenvolvedor Front-end**.
 
 ## Contato
-- 📧 Email: jefferson.a.hp@gmail.com
-- 🔗 LinkedIn: [Jefferson Ferreira](https://www.linkedin.com/in/jefferson-ferreira-desenvolvedor/)
+- [![Email Badge](https://img.shields.io/badge/Email-jefferson.a.hp%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jefferson.a.hp@gmail.com)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jefferson%20Ferreira-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-ferreira-desenvolvedor/)
 
