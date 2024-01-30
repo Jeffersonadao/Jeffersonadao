@@ -14,7 +14,7 @@
 - ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## Certificações
-- 🚀 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/16319ea6-a1dc-4b72-aa45-28f003c24a1f/public_url)
+[![AWS Certified Cloud Practitioner](https://logopratictioner.s3.us-east-2.amazonaws.com/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/16319ea6-a1dc-4b72-aa45-28f003c24a1f/public_url)
 
 ## Projetos
 - [Decodificador de Texto](https://github.com/Jeffersonadao/Challenge-ONE-Decodificar-de-Texto) - Primeiro projeto criado durante os estudos de HTML durante o Oracle Next Education. Não fiz as correções devidas nele, como responsividade, para poder manter o original do primeiro projeto que criei durante os estudos. ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white)
