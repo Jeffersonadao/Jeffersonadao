@@ -1,41 +1,78 @@
-# Olá, eu sou Jefferson Ferreira! 👋
+![Meu Banner](https://github.com/Jeffersonadao/Curriculo/blob/0a10971cdc8060ae747df2f4690526b6bc858610/banner%20perfil.png)
 
-## Sobre mim
-- 👨‍💻 Tenho 34 anos formado em Análise e Desenvolvimento de Sistemas.
-- 🌐 Apaixonado por tecnologia e sempre em busca de mais conhecimento.
-- 🎓 No momento, estou procurando uma vaga para aplicar o conhecimento que estou adquirindo.
+# 👋 Olá! Eu sou Jefferson Ferreira
 
-## Habilidades
-- ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white)
-- ![React](https://img.shields.io/badge/React-16-blue?style=flat-square&logo=react&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+## 👨‍💻 Sobre Mim
 
-## Certificações
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/16319ea6-a1dc-4b72-aa45-28f003c24a1f/public_url)
+Tenho 35 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia, estudo constantemente e estou à procura de uma oportunidade como **Desenvolvedor Mobile**, com foco em **Flutter** e **Dart**.
 
-[![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/340x340/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob)](https://www.credly.com/badges/4d0cfc7c-8aa3-4acf-898a-1c30690a3108/public_url)
+---
 
+## 🛠️ Tecnologias que uso
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" alt="AWS"/>
 
-## Projetos
-- [Decodificador de Texto](https://github.com/Jeffersonadao/Challenge-ONE-Decodificar-de-Texto) - Primeiro projeto criado durante os estudos de HTML durante o Oracle Next Education. Não fiz as correções devidas nele, como responsividade, para poder manter o original do primeiro projeto que criei durante os estudos. ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white)
-- [Relógio Digital](https://jeffersonadao.github.io/Relogio-Digital/) - Relógio criado em JavaScript, projeto que reproduzi através de uma videoaula no YouTube. ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white)
-
-- [Portfólio](https://github.com/Jeffersonadao/Challenge_Portfolio_One) - Projeto de Portfólio criado durante a Trilha Front-End do Oracle Next Education. A proposta era desenvolver um portfólio com base no layout fornecido no Figma. ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white)
-
-- [CineTag](https://github.com/Jeffersonadao/Cinetag) - Projeto criado durante a Trilha de React, onde foi desenvolvida uma página para armazenamento de vídeos e filmes, conforme o design no Figma. ![React Logo](https://img.shields.io/badge/React-16-blue?style=flat-square&logo=react&logoColor=white)
-
-- [GospelFlix](https://github.com/Jeffersonadao/Gospelflix) - Projeto desenvolvido para ser similar à página do Netflix, apresentando vídeos de músicas gospel separados por categorias. Ainda em processo de desenvolvimento, pois não está finalizado. ![React Logo](https://img.shields.io/badge/React-16-blue?style=flat-square&logo=react&logoColor=white)
  
 
 
-## Áreas de Atuação
-- 💼 Atualmente buscando oportunidades para aplicar minhas habilidades como **Desenvolvedor Front-end**.
+</p>
 
-## Contato
-- [![Email Badge](https://img.shields.io/badge/Email-jefferson.a.hp%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jefferson.a.hp@gmail.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jefferson%20Ferreira-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-ferreira-desenvolvedor/)
-- [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/jefferson_a_hp/)
+---
+
+## 📜 Certificações
+
+<p>
+  <a href="https://www.credly.com/badges/16319ea6-a1dc-4b72-aa45-28f003c24a1f/public_url" target="_blank">
+    <img src="https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/>
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/4d0cfc7c-8aa3-4acf-898a-1c30690a3108/public_url" target="_blank">
+    <img src="https://images.credly.com/size/120x120/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob" alt="Scrum Foundation Professional Certificate" width="100"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📱 Flutter & Dart
+
+- [**Calculadora de IMC**](https://github.com/Jeffersonadao/calculo-IMC)  
+  App criado em Flutter para calcular o Índice de Massa Corporal (IMC) com base na altura e peso do usuário. Simples, direto e com visual limpo.
+
+- [**Tela de Delivery - Imersão Flutter Alura**](https://github.com/Jeffersonadao/imersao_flutter_alura)  
+  Interface de um aplicativo de delivery desenvolvida durante a imersão Flutter da Alura. Layout moderno e responsivo com boas práticas.
+
+
+### 🌐 Web (HTML, CSS, JS)
+
+- [**Decodificador de Texto**](https://github.com/Jeffersonadao/Challenge-ONE-Decodificar-de-Texto)  
+  Primeiro projeto desenvolvido durante o curso Oracle Next Education. Mantido em seu estado original para fins de referência e aprendizado.
+
+- [**Relógio Digital**](https://jeffersonadao.github.io/Relogio-Digital/)  
+  Relógio funcional feito em JavaScript puro, criado como parte de uma atividade de reforço de lógica e manipulação de DOM.
+
+- [**CineTag**](https://github.com/Jeffersonadao/Cinetag)  
+  Projeto com interface para listagem de vídeos por categoria, desenvolvido durante a trilha de React no programa da Alura.
+
+  
+
+---
+
+## 💼 Áreas de Interesse
+
+Atualmente estou focado em oportunidades como **Desenvolvedor Mobile**, principalmente com **Flutter** e **Dart**, onde posso unir criatividade e código para criar aplicações intuitivas e responsivas.
+
+---
+
+## 📬 Contato
+
+- ✉️ [jefferson.a.hp@gmail.com](mailto:jefferson.a.hp@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jefferson-ferreira-desenvolvedor/)  
+  
