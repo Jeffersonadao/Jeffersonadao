@@ -1,4 +1,6 @@
-![Meu Banner](https://github.com/Jeffersonadao/Curriculo/blob/0a10971cdc8060ae747df2f4690526b6bc858610/banner%20perfil.png)
+<img src="https://github.com/Jeffersonadao/Curriculo/blob/0a10971cdc8060ae747df2f4690526b6bc858610/banner%20perfil.png?raw=true" width="450"/>
+
+
 
 # 👋 Olá! Eu sou Jefferson Ferreira
 
